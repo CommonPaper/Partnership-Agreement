@@ -18,7 +18,7 @@ Common Paper agreements are free to use and modify under [CC BY 4.0](https://cre
 
 ## How to I run the markdown linter locally?
 
-```js
+```console
 npm install markdownlint-cli
 npx markdownlint "Partnership-Agreement.md" --config="config/lint.json"
 ```
