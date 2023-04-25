@@ -2,7 +2,7 @@
 
 1. <span class="header_2">Cooperation</span>
     1. <span class="header_3">Obligations.</span>  Each party will perform its <span class="businessterms_link">Obligations</span> as detailed in the Cover Page.
-    2. <span class="header_3">Feedback.</span>  Each party may, but is not required to, give Feedback to the other party. All Feedback is given "AS IS". The party receiving Feedback may use it freely without any restriction or obligation.
+    2. <span class="header_3">Feedback.</span>  Each party may, but is not required to, give Feedback to the other party. All Feedback is given "AS IS". The party receiving Feedback may use it freely without any restriction or obligation. 
 2. <span class="header_2">Payment & Taxes</span>
     1. If the <span class="businessterms_link">Obligations</span> include payment of Fees from one party to the other, the following terms apply:
         a. <span class="header_3">Fees and Billing.</span>  Unless the Cover Page specifies a different currency, all Fees are in U.S. Dollars and are exclusive of taxes. Except for the prorated refund of prepaid Fees, Fees are non-refundable. The party receiving payment will bill or invoice the other party for Fees according to the <span class="businessterms_link">Payment Process</span>.
