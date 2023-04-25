@@ -11,3 +11,9 @@ To execute a Common Paper Partnership Agreement, first download a copy of the Co
 
 ### What license is this agreement released under?
 Common Paper agreements are free to use and modify under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+### How to I run the markdown linter locally?
+```
+npm install markdownlint-cli
+npx markdownlint "Partnership-Agreement.md" --config="config/lint.json"
+```
