@@ -25,4 +25,4 @@ jobs:
       run: npx markdownlint *.md --config="config/lint.json"
 
     - name: Run spell check
-      run: npx mdspell *.md --en-us --ignore-numbers --ignore-acronyms
+      run: npx mdspell *.md --en-us --ignore-numbers --ignore-acronyms --report
