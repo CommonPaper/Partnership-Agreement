@@ -18,5 +18,11 @@ jobs:
     - name: Install dependencies
       run: npm install markdownlint-cli
 
+    - name: Install spellcheck
+      run: npm install markdown-spellcheck
+
     - name: Run markdownlint
       run: npx markdownlint *.md --config="config/lint.json"
+
+    - name: Run spell check
+      run: npx mdspell *.md --en-us --ignore-numbers --ignore-acronyms --report
